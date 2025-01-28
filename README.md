@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rocarvaj
 - 🐦 [@rocarvaj](https://twitter.com/rocarvaj)
+- 🦋 [@rocarvaj.bsky.social](https://bsky.app/profile/rocarvaj.bsky.social)
 - 🐘 [@rocarvaj@mas.to](https://mas.to/@rocarvaj)
 - 📫 rodolfo DOT lajavrac (in reverse order) AT uai DOT cl
 
